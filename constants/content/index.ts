@@ -4,7 +4,6 @@ import { jobExperiences } from "./jobExperiences";
 import { otherExperiences } from "./otherExperiencies";
 import { education } from "./education";
 import { diplomado } from "../diplomado";
-import { portfolioItems } from "./portfolioItems";
 import { socialLinks } from "./socialLinks";
 import { skills } from "./skills";
 
@@ -14,7 +13,6 @@ const CONTENT = {
   otherExperiences,
   education,
   diplomado,
-  // portfolioItems,
   socialLinks,
   skills,
 };

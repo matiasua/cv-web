@@ -9,9 +9,4 @@ export const LINKS = [
     url: "/resume",
     classes: "delay-200",
   },
-  // {
-  //   label: "Portfolio",
-  //   url: "/portfolio",
-  //   classes: "delay-300",
-  // },
 ];
