@@ -23,7 +23,7 @@ export const socialLinks: SocialLinkProps[] = [
     image: "/images/social/resume.webp",
     title: "Resumen",
     subtitle: "Click Aquí!",
-    url: "/pdf/CV.pdf",
+    url: "/pdf/MatiasCardenas_Resume.pdf",
     hiddenForPrint: true,
   },
 ];
