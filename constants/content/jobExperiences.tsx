@@ -13,7 +13,7 @@ export const jobExperiences: JobExperienceProps[] = [
   },
   {
     image: "/images/work/camiongo.svg",
-    jobTitle: "Practica Profesional II",
+    jobTitle: "Ingeniero de Datos",
     companyName: "Startup CamiónGO",
     startDate: "Nov 2020",
     endDate: "Feb 2021",
