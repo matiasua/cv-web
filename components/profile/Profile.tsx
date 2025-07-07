@@ -17,7 +17,7 @@ export const Profile = ({ homepage = false }: ProfileProps) => (
   >
     {homepage && (
       <Image
-        src="/images/matcardenas.jpeg"
+        src="/images/matcardenas.jpg"
         alt={fullName}
         height={256}
         width={256}
