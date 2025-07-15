@@ -2,14 +2,14 @@ import { JobExperienceProps } from "@/components/common/JobExperience";
 
 export const jobExperiences: JobExperienceProps[] = [
   {
-    image: "/images/work/Logo_Claro.png",
+    image: "/images/work/Logo_minsal.png",
     jobTitle: "Especialista DevOps",
-    companyName: "Claro Chile SA",
+    companyName: "Ministerio de Salud",
     startDate: "Ene 2025",
     endDate: "Actualidad",
     location: "Santiago, Chile (Presencial)",
     children:
-      "Brindo servicios DevOps al Ministerio de Salud de Chile como contratista externo en el Departamento de Tecnologías de la Información. Administro infraestructura en Red Hat OpenShift, diseño y despliego aplicaciones cloud-native, e implemento prácticas CI/CD para optimizar los procesos de desarrollo. Además, aseguro la calidad del software y la confiabilidad de las plataformas mediante automatización y monitoreo continuo.",
+      "Departamento de Tecnologías de la Información. Me desempeño en la administración de infraestructura basada en Red Hat OpenShift, participando en el diseño y despliegue de aplicaciones cloud- native. Implemento prácticas de integración y entrega continua (CI / CD) para optimizar los procesos de desarrollo, asegurando la calidad del software y la confiabilidad de las plataformas mediante automatización y monitoreo continuo.",
   },
   {
     image: "/images/work/iconuchile.svg",
